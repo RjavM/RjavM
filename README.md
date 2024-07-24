@@ -14,6 +14,8 @@
 🛠 **Languages and Tools**: 
 
   <img src = "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width = "38" height = "38"  />                                 <img src = "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width = "41" height = "41"  />                                 <img src = "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width = "38" height = "38"  />                                 <img src = "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width = "35" height = "35"  />                                                                             <img src = "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width = "35" height = "35"  />                                 <img src = "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" width = "35" height = "35"  />
+  <img src = "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/javascript.svg" width = "35" height = "35"  />
+  
    
 
 </p>

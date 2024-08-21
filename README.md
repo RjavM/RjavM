@@ -5,7 +5,7 @@
   
   🎓 **Studying**: I'm a 2nd-year Software Engineering student at Carleton University, Ottawa.
   
-  🌐 **Interests**: I'm particularly focusing on Web Development right now (Still exploring new technologies).
+  🌐 **Interests**: I'm particularly focusing on Web Development and Deep Learning right now (Still exploring new technologies).
   
   🏓 **Outside Coding**: You can probably find me playing table tennis when I'm not in front of a computer screen. (Yes! It's Table Tennis, not Ping Pong 😁).
   

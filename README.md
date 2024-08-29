@@ -13,7 +13,7 @@
 
 🛠 **Languages and Tools**: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,java,python,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,python,mongodb,git)](https://skillicons.dev)
 
 </p>
 <!--

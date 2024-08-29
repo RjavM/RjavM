@@ -9,7 +9,7 @@
   
   🏓 **Outside Coding**: You can probably find me playing table tennis when I'm not in front of a computer screen. (Yes! It's Table Tennis, not Ping Pong 😁).
   
-  🔗 **Connect**: Feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/aarjav-mitkari/).
+  🔗 **Connect**: Feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/aarjav-mitkari/) or view my [webisite](https://rjavm.netlify.app) to learn more about me and do send me a message while you are at it!.
 
 🛠 **Languages and Tools**: 
 

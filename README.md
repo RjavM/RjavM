@@ -3,7 +3,7 @@
 </h1>
 <p>
   
-  🎓 **Studying**: I'm a 2nd-year Software Engineering student at Carleton University, Ottawa.
+  🎓 **Studying**: I'm a 3rd-year Software Engineering student at Carleton University, Ottawa.
   
   🌐 **Interests**: I'm particularly focusing on Web Development and Deep Learning right now (Still exploring new interesting technologies such as web3).
   
